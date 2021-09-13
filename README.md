@@ -1,4 +1,4 @@
-# Sage Towers
+# [Sage Towers](https://amazastrophic.com)
 This will hold miscellaneous info relating to Sage Towers.
 
 For more info about our game Sage Towers please [visit the offical site.](https://sagetowers.com)
