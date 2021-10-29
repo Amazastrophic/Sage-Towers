@@ -8,10 +8,11 @@ We are using a combination of Unity, open source networking, and a server author
 Users in the first-person 3D open world can easily build grand towers for a foothold into the wild metaverse!
 
 # Contribution
-Talking with the community in Discord is the easiest way to help.
+Talking with the community in [Discord](https://discord.gg/sagetowers) is the fastest way to help.
 
 Currently making your own NFT and listing it on OpenSea is the simplest way to work with the metaverse.
 
 Another goal is to allow people to make a metaverse for the community and easily network them using our tools along with Unity.
 
 ## [Whitelist](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md)
+If you would like your project to get whitelisted have your people contact our people in Discord.
