@@ -12,10 +12,10 @@ Another goal is to allow people to make a metaverse for the community and easily
 
 ## Tools we used-
 Unity
-[Web3] (https://github.com/ChainSafe/web3.unity/)
-[Mirage] (https://github.com/MirageNet/Mirage)
-[Master Server List] (https://github.com/SoftwareGuy/NodeListServer)
-[OpenSeaApi] (https://docs.opensea.io/reference/api-overview)
+[Web3](https://github.com/ChainSafe/web3.unity/)
+[Mirage](https://github.com/MirageNet/Mirage)
+[Master Server List](https://github.com/SoftwareGuy/NodeListServer)
+[OpenSeaApi](https://docs.opensea.io/reference/api-overview)
 [3d Plugin]
 [Gif Plugin]
 
