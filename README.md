@@ -10,15 +10,19 @@ Currently making your own NFT and listing it on OpenSea is the simplest way to w
 
 Another goal is to allow people to make a metaverse for the community and easily network them using our tools along with Unity.
 
-## Tools we used-
-Unity
-[Web3](https://github.com/ChainSafe/web3.unity/)
-[Mirage](https://github.com/MirageNet/Mirage)
-[Master Server List](https://github.com/SoftwareGuy/NodeListServer)
-[OpenSeaApi](https://docs.opensea.io/reference/api-overview)
-[3d Plugin]
-[Gif Plugin]
+## Tools used-
 
+[Unity](https://unity.com/)
+
+[Web3](https://github.com/ChainSafe/web3.unity/)
+
+[Mirage](https://github.com/MirageNet/Mirage)
+
+[OpenSea Api](https://docs.opensea.io/reference/api-overview)
+
+[UniGLTF](https://github.com/ousttrue/UniGLTF)
+
+[UniGif](https://github.com/WestHillApps/UniGif)
 
 # Download Client
 
