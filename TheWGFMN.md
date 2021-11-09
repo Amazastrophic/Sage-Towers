@@ -1,6 +1,8 @@
 # The Wagmi Gallery of Fine Memes
-Currently housing the collection owned by
+We are still in the process of setting everything up, but are currently showing the collection of :
 [Cozomo de Medici](https://opensea.io/Cozomo_de_Medici)
+
+If you would like to have you work shown please contact us on [Discord](https://discord.gg/sagetowers)
 
 Piece Name | Owner Name | Galley Location | Experience 
 ------------ | ------------- | ------------ | ------------
