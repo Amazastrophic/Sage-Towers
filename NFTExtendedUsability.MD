@@ -10,10 +10,10 @@ ENS Names
 ArtWars
 
 ### Clothing 
-Needed
+None
 
 ### Pet 
-Needed
+None
 
 ### Special Interactive Experience
 McRib(WIP)- Gives users "I'm loving it!" buff.
