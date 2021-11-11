@@ -6,7 +6,7 @@ Sage Towers is focused on allowing extended usability of NFT's inside the Metave
 ### Profile Name
 ENS Names
 
-### Progile Titles
+### Profile Titles
 Sage Token
 
 ### Rigged Models
