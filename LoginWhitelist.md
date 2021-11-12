@@ -1,7 +1,7 @@
 
 ## Whilelist for Access
 
-The founding Sage Towers realm "Utopia" can be accessed with the following NFT's
+The founding realm "Utopia" can be accessed with the following NFT's
 
 Name | Type | Total | Owners | Collection ID 
 ------------ | ------------- | ------------ | ------------ | ------------ 
