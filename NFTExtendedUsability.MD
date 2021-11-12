@@ -11,12 +11,24 @@ At the moment we are focused on Etherium and using the OpenSea API. It shoud be 
 
 
 ## Profile Name
-NFT Name | Usability | Compatibility  | Comment
+NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
-[ENS: Ethereum Name Service](https://opensea.io/collection/ens) | Inherited | Name Only | Need API to fetch more than name
+[ENS: Ethereum Name Service](https://opensea.io/collection/ens) | Inherited | Name Only | Need implment [API](https://github.com/ensdomains/ens-metadata-service) to fetch more
 ## Profile Titles
-Sage Token, Inherited
 
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+[Sage Token](https://opensea.io/collection/metaverse-player-titles) | Inherited | 100% | "Crypto Enjoyer"
+[CryptoPunks](https://opensea.io/collection/cryptopunks) | Inherited | 100% | "Punk" + ID = "Punk 6529"
+[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Inherited | 100% | "BAYC #" + ID = "BAYC #6529"
+[Lazy Lions](https://opensea.io/collection/lazy-lions) | Inherited | 100% | Punk + ID = "Punk 6529"
+[CyberKongz](https://opensea.io/collection/cyberkongz) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[CrypToadz](https://opensea.io/collection/cryptoadz-by-gremplin) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[Low effort Punks](https://opensea.io/collection/low-effort-punks) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[Doodles](https://opensea.io/collection/doodles-official) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Inherited | 100% |  Punk + ID = "Punk 6529"
 
 ## Rigged Models
 ArtWars
