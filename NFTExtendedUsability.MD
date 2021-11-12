@@ -20,15 +20,15 @@ NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 [Sage Token](https://opensea.io/collection/metaverse-player-titles) | Inherited | 100% | "Crypto Enjoyer"
 [CryptoPunks](https://opensea.io/collection/cryptopunks) | Inherited | 100% | "Punk" + ID = "Punk 6529"
-[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Inherited | 100% | "BAYC #" + ID = "BAYC #6529"
-[Lazy Lions](https://opensea.io/collection/lazy-lions) | Inherited | 100% | Punk + ID = "Punk 6529"
-[CyberKongz](https://opensea.io/collection/cyberkongz) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[CrypToadz](https://opensea.io/collection/cryptoadz-by-gremplin) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[Low effort Punks](https://opensea.io/collection/low-effort-punks) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[Doodles](https://opensea.io/collection/doodles-official) | Inherited | 100% |  Punk + ID = "Punk 6529"
-[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Inherited | 100% |  Punk + ID = "Punk 6529"
+[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Granted | 100% | "BAYC #" + ID = "BAYC #6529"
+[Lazy Lions](https://opensea.io/collection/lazy-lions) | Granted | 100% | Punk + ID = "Punk 6529"
+[CyberKongz](https://opensea.io/collection/cyberkongz) | Granted | 100% |  Punk + ID = "Punk 6529"
+[CrypToadz](https://opensea.io/collection/cryptoadz-by-gremplin) | Granted | 100% |  Punk + ID = "Punk 6529"
+[Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Granted | 100% |  Punk + ID = "Punk 6529"
+[MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Granted | 100% |  "MoonShotBot #"+ ID = "MoonShotBot #6529"
+[Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | 100% |  Punk + ID = "Punk 6529"
+[Doodles](https://opensea.io/collection/doodles-official) | Granted | 100% |  Punk + ID = "Punk 6529"
+[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | 100% |  Punk + ID = "Punk 6529"
 
 ## Rigged Models
 ArtWars
