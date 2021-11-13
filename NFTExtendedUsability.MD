@@ -1,9 +1,9 @@
 
 # NFT Extended Usability
 
-Sage Towers is focused on allowing extended usability of NFT's inside the Metaverse. While all NFT's can be displayed, others offer a wide range of utility. Want us to support a new NFT or want to see your work in a Unity based Metaverse, contact us on [Discord](https://sagetowers.com).
+Sage Towers is focused on allowing extended usability of NFTs inside the Metaverse. While all NFTs can be displayed, others offer a wide range of utility. If you want us to support a new NFT or want to see your work in a Unity based Metaverse, contact us on [Discord](https://sagetowers.com).
 
-At the moment we are focused on Etherium and using the OpenSea API. It shoud be easy to support other blockchains with the way we are setting this up, we would just need to point to another relevant API that supports the blockchain in question.
+At the moment we are focused on Etherium and using the OpenSea API. It should be easy to support other blockchains with the way we are setting this up. We would just need to point to another relevant API that supports the blockchain in question.
 
 ### Usability
 #### Inherited = Native to the NFT's metadata
@@ -13,7 +13,7 @@ At the moment we are focused on Etherium and using the OpenSea API. It shoud be 
 ## Profile Name
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
-[ENS: Ethereum Name Service](https://opensea.io/collection/ens) | Inherited | Name Only | Need implment [API](https://github.com/ensdomains/ens-metadata-service) to fetch more
+[ENS: Ethereum Name Service](https://opensea.io/collection/ens) | Inherited | Name Only | Need implement [API](https://github.com/ensdomains/ens-metadata-service) to fetch more
 ## Profile Titles
 
 NFT Collection | Usability | Compatibility  | Comment
@@ -31,10 +31,10 @@ NFT Collection | Usability | Compatibility  | Comment
 [Doodles](https://opensea.io/collection/doodles-official) | Granted | Soon |  Doodles + ID = "Doodles 2519"
 [Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | Soon |  LEP + ID = "LEP 1129"
 
-If we are misrepping your brand hit us up with an offical rep and we will see what we can do.
+If we are misrepresenting your brand, contact us.
 
 ## Rigged Models
-This should be simple to a degree, we already have a system for swapping models in. More a questiong where the models are store.
+This should be simple to a degree, we already have a system for swapping models in. Need to assess where the models are stored.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 [Meebits](https://opensea.io/collection/metaverse-player-titles) | Inherited | Pending | [Thread w/info](https://twitter.com/dankvr/status/1455909248035082242)
@@ -56,7 +56,7 @@ Pending | Pending | Pending | Pending
 
 ## Building Pieces Set
 
-We will be releasing a refrence set of buildigns pieces for people to work with soon.
+We will be releasing a reference set of building pieces for people to work with soon.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
