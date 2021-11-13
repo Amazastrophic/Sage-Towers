@@ -20,6 +20,8 @@ NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 [Sage Token](https://opensea.io/collection/metaverse-player-titles) | Inherited | Soon | "Crypto Enjoyer"
 [MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Inherited | Soon|  "Blushing Malware Moonshot Bot"
+[Rare Pepe](https://opensea.io/collection/emblem-vault?search[stringTraits][0][name]=Rare%20Pepe&search[stringTraits][0][values][0]=All%20Rare%20Pepe)| Granted | Soon | "Feels good man"
+[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | Soon |  Fidenza + ID + Enjoyer = "Fidenza 529 Enjoyer"
 [CryptoPunks](https://opensea.io/collection/cryptopunks) | Inherited | Soon | Punk + ID = "Punk 6529"
 [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Granted | Soon | BAYC + ID = "BAYC 7529"
 [Lazy Lions](https://opensea.io/collection/lazy-lions) | Granted | Soon | Lazy Lion + ID = "Lazy Lion 1436"
@@ -28,8 +30,7 @@ NFT Collection | Usability | Compatibility  | Comment
 [Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Granted | Soon |  Cool Cat + ID = " Cool Cat 7525"
 [Doodles](https://opensea.io/collection/doodles-official) | Granted | Soon |  Doodles + ID = "Doodles 2519"
 [Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | Soon |  LEP + ID = "LEP 1129"
-[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | Soon |  Fidenza + ID + Enjoyer = "Fidenza 529 Enjoyer"
-[Rare Pepe](https://opensea.io/collection/emblem-vault?search[stringTraits][0][name]=Rare%20Pepe&search[stringTraits][0][values][0]=All%20Rare%20Pepe)| Granted | Soon | "Feels good man"
+
 If we are misrepping your brand hit us up with an offical rep and we will see what we can do.
 
 ## Rigged Models
@@ -42,25 +43,32 @@ NFT Collection | Usability | Compatibility  | Comment
 
 
 ## Clothing and Accessories for Models
-If you know of any please contact us
+
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
 ## Pets 
-If you know of any please contact us
+
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
 ## Building Pieces Set
+
 We will be releasing a refrence set of buildigns pieces for people to work with soon.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
+## Building Furniture 
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
 ## Special Interactive Experience
-If you got some good meme ideas please contact us.
+
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 McRib | Pending | When Released | Gives owner "I'm loving it!" buff.
