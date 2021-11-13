@@ -30,8 +30,10 @@ NFT Collection | Usability | Compatibility  | Comment
 [Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | Soon |  LEP + ID = "LEP 1129"
 [Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | Soon |  Fidenza + ID + Enjoyer = "Fidenza 529 Enjoyer"
 [Rare Pepe](https://opensea.io/collection/emblem-vault?search[stringTraits][0][name]=Rare%20Pepe&search[stringTraits][0][values][0]=All%20Rare%20Pepe)| Granted | Soon | "Feels good man"
+If we are misrepping your brand hit us up with an offical rep and we will see what we can do.
 
 ## Rigged Models
+This should be simple to a degree, we already have a system for swapping models in. More a questiong where the models are store.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 [Meebits](https://opensea.io/collection/metaverse-player-titles) | Inherited | Pending | [Thread w/info](https://twitter.com/dankvr/status/1455909248035082242)
@@ -39,17 +41,26 @@ NFT Collection | Usability | Compatibility  | Comment
 [ArtWars](https://opensea.io/collection/art-warsnft) | Inherited | Pending | Waiting for more info
 
 
-## Clothing and Accessories 
+## Clothing and Accessories for Models
+If you know of any please contact us
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
 ## Pets 
+If you know of any please contact us
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
+## Building Pieces Set
+We will be releasing a refrence set of buildigns pieces for people to work with soon.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
 ## Special Interactive Experience
+If you got some good meme ideas please contact us.
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 McRib | Pending | When Released | Gives owner "I'm loving it!" buff.
