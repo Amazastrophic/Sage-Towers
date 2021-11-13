@@ -52,6 +52,6 @@ Pending | Pending | Pending | Pending
 ## Special Interactive Experience
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
-Pending | Pending | Pending | Pending
-McRib(WIP)- Gives users "I'm loving it!" buff.
+McRib | Pending | When Released | Gives owner "I'm loving it!" buff.
+
 
