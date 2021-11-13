@@ -18,28 +18,40 @@ NFT Collection | Usability | Compatibility  | Comment
 
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
-[Sage Token](https://opensea.io/collection/metaverse-player-titles) | Inherited | 100% | "Crypto Enjoyer"
-[CryptoPunks](https://opensea.io/collection/cryptopunks) | Inherited | 100% | "Punk" + ID = "Punk 6529"
-[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Granted | 100% | "BAYC #" + ID = "BAYC #6529"
-[Lazy Lions](https://opensea.io/collection/lazy-lions) | Granted | 100% | Lazy Lion + ID = "Lazy Lion  6529"
-[CyberKongz](https://opensea.io/collection/cyberkongz) | Granted | 100% |  CyberKongz + ID = "CyberKongz 6529"
-[CrypToadz](https://opensea.io/collection/cryptoadz-by-gremplin) | Granted | 100% |  CrypToadz + ID = "CrypToadz 6529"
-[Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Granted | 100% |  Cool Cat + ID = " Cool Cat 6529"
-[MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Inherited | 100% |  "Blushing Malware Moonshot Bot"
-[Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | 100% |  LEP + ID = "LEP 6529"
-[Doodles](https://opensea.io/collection/doodles-official) | Granted | 100% |  Doodles + ID = "Doodles 6529"
-[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | 100% |  Fidenza + ID + Enjoyer = "Fidenza 6529 Enjoyer"
+[Sage Token](https://opensea.io/collection/metaverse-player-titles) | Inherited | Soon | "Crypto Enjoyer"
+[MoonShotBots V3](https://opensea.io/collection/moonshotbots-v3) | Inherited | Soon|  "Blushing Malware Moonshot Bot"
+[CryptoPunks](https://opensea.io/collection/cryptopunks) | Inherited | Soon | Punk + ID = "Punk 6529"
+[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) | Granted | Soon | BAYC + ID = "BAYC 7529"
+[Lazy Lions](https://opensea.io/collection/lazy-lions) | Granted | Soon | Lazy Lion + ID = "Lazy Lion 1436"
+[CyberKongz](https://opensea.io/collection/cyberkongz) | Granted | Soon |  CyberKongz + ID = "CyberKongz 6169"
+[CrypToadz](https://opensea.io/collection/cryptoadz-by-gremplin) | Granted | Soon |  CrypToadz + ID = "CrypToadz 5561"
+[Cool Cats NFT](https://opensea.io/collection/cool-cats-nft) | Granted | Soon |  Cool Cat + ID = " Cool Cat 7525"
+[Doodles](https://opensea.io/collection/doodles-official) | Granted | Soon |  Doodles + ID = "Doodles 2519"
+[Low effort Punks](https://opensea.io/collection/low-effort-punks) | Granted | Soon |  LEP + ID = "LEP 1129"
+[Fidenza](https://opensea.io/collection/fidenza-by-tyler-hobbs) | Granted | Soon |  Fidenza + ID + Enjoyer = "Fidenza 529 Enjoyer"
+[Rare Pepe](https://opensea.io/collection/emblem-vault?search[stringTraits][0][name]=Rare%20Pepe&search[stringTraits][0][values][0]=All%20Rare%20Pepe)| Granted | Soon | "Feels good man"
 
 ## Rigged Models
-ArtWars
-Meebits | Comment: [Thread w/info](https://twitter.com/dankvr/status/1455909248035082242)
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+[Meebits](https://opensea.io/collection/metaverse-player-titles) | Inherited | Pending | [Thread w/info](https://twitter.com/dankvr/status/1455909248035082242)
+[RTFKT CloneX](https://clonex.rtfkt.com/) | Inherited | Pending| Required file support is good
+[ArtWars](https://opensea.io/collection/art-warsnft) | Inherited | Pending | Waiting for more info
 
-## Clothing 
-None
+
+## Clothing and Accessories 
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
 
 ## Pets 
-None
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
 
 ## Special Interactive Experience
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
 McRib(WIP)- Gives users "I'm loving it!" buff.
 
