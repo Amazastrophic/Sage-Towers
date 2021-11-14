@@ -4,8 +4,6 @@
 Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, web3, and realtime multiplayer interactions. 
 Our grand goal is to open up as much of our core work as we can to help create the utimate Metaverse that no one can stop!
 
-The first-person sandbox we designed with Unity allows users to quickly and easily build grand towers for a stringhold in the wild metaverse! Relax safely in a place built with frens and memes, or maybe adventure with frens into the wilderness fighting Elementals in a harsh survival world?
-
 Please join our [Discord](https://discord.gg/sagetowers) to start your journy into some of the most prestigious Realms of the metaverses.
 
 # How we are diffrent
@@ -16,7 +14,7 @@ Many memes died to bring us this information, but they report [Meta's move to as
 One main speacial attack is that each Realm (Server) in Sage Towers will become its own ecosystem with its own variants on gameplay and blockchaon itergrations. We did not want the core metaverse to be weighd down from high barriers to entry like VR/AR. The goal is for **communities** to fill out the Realms rule set as they see fit. Initally we will probably have to work hand and hand with commnuiotes, but our end goal is to allow anyone to build Realms in Unity and host them online or even LAN.
 
 ### Currently we do not require what some might expect in the core Metaverse:
-These features would be per realm when implemnted-
+These features would be per realm when implemnted
 - **No crypto required**  
 - **No VR required**  
 - **No AR required**
@@ -34,28 +32,26 @@ These features would be per realm when implemnted-
 - Theme: Realistic Fantasy
 - Genre: Builder, Open World, Sandbox, Survival, RPG
 - Online: User hosted public/private servers called Realms. Focused on 200 per Realm with 30hz tickrate, could scale however.
-- Description: Build majestic towers and cities in a mysterious realm to store exotic goods from all over the Metaverse! Allow Sage Towers to be one of homes away from homes inside the Metavserse.
+- Description: Build majestic towers and cities in a mysterious realm to store exotic goods from all over the Metaverse! Allow Sage Towers to be one of homes away from homes inside the Metavserse. The first-person sandbox we designed with Unity allows users to quickly and easily build a tower. Then relax safely in a place built with frens and memes, or maybe adventure with frens into the wilderness fighting Elementals in a harsh survival world?
 
 Remember that currently our first realm **"Utopia"** will be open to holders of any NFT on our [whitelist](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md), we have plans for more public and private hosted servers soon. 
 
+## Tech TED Talk
+We are using a combination of Unity, [open source networking](https://github.com/MirageNet/Mirage), and a server authoritative approach to accomplish everything. We minimize client authiorty over most data and plan to actively improve our implemtaions of mltiplery techniqes, extending our system to exactly fit everyones needs. And by utilizing web3 and NFT's we believe we can compeltly replace all of Steams services, getting closer and closer to a true decentralized gameing ecosystem. The metaverse might still have a chance if we can pull all these tools togehter and iterate on them.
 
-## Some Lite Tech Talk
-We are using a combination of Unity, [open source networking](https://github.com/MirageNet/Mirage), and a server authoritative approach to accomplish everything. We minimize client authiorty over most data and plan to actively improve our implemtaions of mltiplery techniqes such as CSP, EC, and work on extending our scalability to new hieghts. And by utilizing web3 and NFT's we believe we can compeltly replace all of Steams services, getting closer and closer to a true decentralized gameing ecosystem. The metaverse might still have a chance if we can pull all these tools togehter and iterate on them.
+## Team
+Two life long meme enjoyers trying to make there way around the metaverse. Probably nothing, but who else can offer a one in a million shot at taking out the Zuck empiere? Gaming skills is top of tops. We love multiplayer games. We have also been hacking on the core multiplayer systems on this for almost 5 years now and have unlocked forbidden secrets of the art, if you know you know... and thanks for the help to get here.
 
-# Team
-Two life long meme enjoyers trying to make there way around the metaverse. Probably nothing, but who else can offer a one in a million shot at taking out the Zuck empiere? Gaming skills is top of tops. We love multiplayer games. We have also been hacking on the core multiplayer systems on this for almost 5 years now and have unlocked forbidden secrets of the art, if you know you know... and thanks.
-
-## [Download Client from Discord](https://discord.gg/SMjWy7FMgz)
-We are currenty approved by Discord to distrubute Sage Towers on thier platform. 
-Requirements-
+## [The Wagmi Gallery of Fine Memes](https://github.com/Amazastrophic/Sage-Towers/blob/main/TheWGFM.md)
+One of the main features of the Utopia realm is The Wagmi Gallery of Fine Memes. More info coming soon but you can get a peak about [here](https://github.com/Amazastrophic/Sage-Towers/blob/main/TheWGFM.md).
 
 ## Tools used-
 
 [Unity](https://unity.com/)
 
-[Web3](https://github.com/ChainSafe/web3.unity/)
+[ChainSafe Web3](https://github.com/ChainSafe/web3.unity/)
 
-[Mirage](https://github.com/MirageNet/Mirage)
+[Mirage Networking](https://github.com/MirageNet/Mirage)
 
 [OpenSea Api](https://docs.opensea.io/reference/api-overview)
 
@@ -71,8 +67,16 @@ Making your own NFT and listing it on OpenSea is the simplest way to work with t
 
 If you need something mroe custom please contact us and we can build the metaverse with you and your community!
 
-# [Download Client](https://discord.gg/SMjWy7FMgz)
+# Resources 
 
-# [Whitelist](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md)
+## [Discord](https://discord.gg/sagetowers)
 
-# [NFT Extended Usability](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.md)
+## [Website](https://sagetowers.com)
+
+## [Presskit](https://github.com/Amazastrophic/Sage-Towers/tree/main/Presskit)
+
+## [Whitelist](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md)
+
+## [NFT Extended Usability](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.md)
+
+## [The Wagmi Gallery of Fine Memes](https://github.com/Amazastrophic/Sage-Towers/blob/main/TheWGFM.md)
