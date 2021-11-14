@@ -1,25 +1,29 @@
 # [Sage Towers](https://sagetowers.com)
-Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, NFT usability, and realtime multiplayer interactions. 
+Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, NFT usability, and realtime multiplayer interactions. You can join into a sandbox and start building your elequit metaverse abode right away in realtime. No land to 
 
-Our plan is to gradually open up as much of our core work as we can to help create the utimate metaverse that no one can stop!
+Our grand goal is to open up as much of our core work as we can to help create the utimate Metaverse that no one can stop!
 
-Please join our [Discord](https://discord.gg/sagetowers) to start your journy into some of the most prestigious realms in the metaverses.
+Please join our [Discord](https://discord.gg/sagetowers) to start your journy into some of the most prestigious realms of the metaverses.
 
 # How we are diffrent
-Again, we are focused on NFT usability and utility in the metaverse first and foremost
+Again, we are focused on NFT usability and utility in the metaverse first and foremost.
 
-### Currently we do not require what some might expect:
-- No crypto needed
-- No VR gear needed
-- No AR gear needed
+We believe that each Realm (Server) im Sage Towers will become its own ecosystem with its own variants on gameplay and blockchaon itergrations. We did not want the core metaverse to be weighd down initally from high barriers to entry like VR/AR.
 
-We plan to utilize Unity to publish on as many paltforms as we can that allow Web3 profiles. And depening on community support from respective blockchains,
+### Currently we do not require what some might expect in the core Metaverse:
+These features would be per realm when implemnted-
+- **No crypto required**  
+- **No VR required**  
+- **No AR required**
+- **No Blockchain Gaming/NFT minting**
+- **FFA land grab but willing to full GM on abusers **
 
+We plan to utilize Unity to publish on as many paltforms as we can that allow Web3 profiles. And depening on community support from respective blockchains, it would be our pleasure to promote crosschain interoerbility. 
 
 ## Requirements
 
-- Windows: We use Unity's multiplatorm support and expect to support Web, Mac, Linux, and Consoles with ease.
-- [Discord](https://discord.com) : Login and [Download](https://discord.gg/SMjWy7FMgz)- We use [Discord API](https://discord.com/developers/docs/reference) for login and are approved by Discord to distribute.
+- Windows: Plans to support Web, Mac, Linux, and Consoles incoming.
+- [Discord](https://discord.com): Login and [Download](https://discord.gg/SMjWy7FMgz)- We use [Discord API](https://discord.com/developers/docs/reference) for login and are approved by Discord to distribute.
 - Web3 Profile/Wallet: [NFT support](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.MD), always being polished.
 - [Whitelist NFT](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md): To access the exlusive "Utopia" realm (more open public and private hosted realms coming soon)
 
@@ -29,8 +33,7 @@ We plan to utilize Unity to publish on as many paltforms as we can that allow We
 - Theme: Realistic Fantasy but variant realms could be anything.
 - Genre: Builder, Open World, Sandbox, Survival, but can variant realms could be anything.
 - Online: User hosted public/private servers called Realms. Focused on 200 per Realm with 30hz tickrate, could scale.
-- Description: Build majestic towers in a mysterious realm to house exotic goods from all over the Metaverse. Allow Sage Towers to be one of homes away from homes inside the Metavserse. If you are feeling extra adventurius enjoy the full Survival RPG backbone that we initally built on top of.
-Users in the first-person 3D open world can easily build grand towers for a foothold into the wild metaverse! Relax safely in a place built with frens and memes. Or maybe adventure into the wilderness fighting Elementals in a harsh survival world with PvP?
+- Description: Build majestic towers in a mysterious realm to house exotic goods from all over the Metaverse. Allow Sage Towers to be one of homes away from homes inside the Metavserse. If you are feeling extra adventurius enjoy the full Survival RPG backbone that we built the inital Realms from.
 
 
 Sage Towers is built in Unity with open source networking and a server authoritative approach to accomplish this.
