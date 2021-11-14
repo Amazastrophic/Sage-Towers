@@ -1,19 +1,35 @@
 # [Sage Towers](https://sagetowers.com)
-Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, NFT utility, and multiplayer interactions. 
+Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, NFT usability, and realtime multiplayer interactions. 
+
+Our plan is to gradually open up as much of our core work as we can to help create the utimate metaverse that no one can stop!
+
+Please join our [Discord](https://discord.gg/sagetowers) to start your journy into some of the most prestigious realms in the metaverses.
+
+# How we are diffrent
+Again, we are focused on NFT usability and utility in the metaverse first and foremost
+
+### Currently we do not require what some might expect:
+- No crypto needed
+- No VR gear needed
+- No AR gear needed
+
+We plan to utilize Unity to publish on as many paltforms as we can that allow Web3 profiles. And depening on community support from respective blockchains,
+
 
 ## Requirements
 
 - Windows: We use Unity's multiplatorm support and expect to support Web, Mac, Linux, and Consoles with ease.
-- Discord: Login and Download- We use [Discord API](https://discord.com/developers/docs/reference) for login and are approved by Discord to distribute.
+- [Discord](https://discord.com) : Login and [Download](https://discord.gg/SMjWy7FMgz)- We use [Discord API](https://discord.com/developers/docs/reference) for login and are approved by Discord to distribute.
 - Web3 Profile/Wallet: [NFT support](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.MD), always being polished.
 - [Whitelist NFT](https://github.com/Amazastrophic/Sage-Towers/blob/main/Whitelist.md): To access the exlusive "Utopia" realm (more open public and private hosted realms coming soon)
 
 
 ## Game Play
-- View: First Person
-- Theme: Realistic Fantasy
-- Genre: Builder, Survival, PvE, PvP
-- Blockchain game: NO, blockchain game in Sage Towers is per realm...
+- Perspective: First Person
+- Theme: Realistic Fantasy but variant realms could be anything.
+- Genre: Builder, Open World, Sandbox, Survival, but can variant realms could be anything.
+- Online: User hosted public/private servers called Realms. Focused on 200 per Realm with 30hz tickrate, could scale.
+- Description: Build majestic towers in a mysterious realm to house exotic goods from all over the Metaverse. Allow Sage Towers to be one of homes away from homes inside the Metavserse. If you are feeling extra adventurius enjoy the full Survival RPG backbone that we initally built on top of.
 Users in the first-person 3D open world can easily build grand towers for a foothold into the wild metaverse! Relax safely in a place built with frens and memes. Or maybe adventure into the wilderness fighting Elementals in a harsh survival world with PvP?
 
 
