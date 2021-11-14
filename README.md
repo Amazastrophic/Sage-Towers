@@ -1,4 +1,5 @@
 # [Sage Towers](https://discord.gg/SMjWy7FMgz)
+ps... if your reading this before I spell check tomorrow morning im sorry...
 ### **The choice is yours anon, will you siese the memes of production and defeath The MetaZuck with us?**
 
 Sage Towers is a free, community driven, metaverse experiment that's focused on verified NFT ownership, web3, and realtime multiplayer interactions. 
