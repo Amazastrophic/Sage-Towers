@@ -17,3 +17,5 @@ Name | Type | Total | Owners | Collection ID
 [Sage Tokens](https://opensea.io/collection/metaverse-player-titles) | title | 50 | 0 | [0x495f947276749ce646f68ac8c248420045cb7b5e](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)
 [Fidenza by Tyler Hobbs](https://opensea.io/collection/fidenza-by-tyler-hobbs ) | art | 999 | 493 | [0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270](https://etherscan.io/address/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270)
 
+Banned ETH addresses for crimes agaisnt NFT enjooyers-
+tmas and artchick for FUD tokens. Have some real FUD instead.
