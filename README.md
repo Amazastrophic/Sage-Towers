@@ -25,7 +25,7 @@ These features would be per realm when implemented
 
 - Windows: Plans to support Web, Mac, Linux, and Consoles incoming.
 - [Discord](https://discord.com): Login and [Download](https://discord.gg/SMjWy7FMgz)- We use [Discord API](https://discord.com/developers/docs/reference) for login and are approved by Discord to distribute.
-- Web3 Profile/Wallet: [NFT support](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.md), always being polished.
+- [Web3 Profile/Wallet](https://github.com/ChainSafe/web3.unity/): [NFT support](https://github.com/Amazastrophic/Sage-Towers/blob/main/NFTExtendedUsability.md), always being polished.
 - [Whitelist NFT](https://github.com/Amazastrophic/Sage-Towers/blob/main/UtopiaWhitelist.md): To access the exlusive "Utopia" Realm (more open public and private hosted realms coming soon)
 
 ## Current Base Game Play
@@ -37,8 +37,9 @@ These features would be per realm when implemented
 
 Remember that currently our first realm **"Utopia"** will be open to holders of any NFT on our [whitelist](https://github.com/Amazastrophic/Sage-Towers/blob/main/UtopiaWhitelist.md), we have plans for more public and private hosted servers soon. 
 
+
 ## Tech TED Talk
-We are using a combination of Unity, [open source networking](https://github.com/MirageNet/Mirage), and a server authoritative approach to accomplish everything. We minimize client authority over most data and plan to actively improve our implentations of multiplayer techniques, extending our system to exactly fit everyones needs. By utilizing web3 and NFTs we believe we can completely replace all of Steam's services, getting closer and closer to a true decentralized gaming ecosystem. The metaverse might still have a chance if we can pull all these tools togehter and iterate on them.
+We are using a combination of Unity, [open source networking](https://github.com/MirageNet/Mirage), and a server authoritative approach to accomplish everything. We minimize client authority over most data and plan to actively improve our implentations of multiplayer techniques, extending our system to exactly fit everyones needs. By utilizing web3 and NFTs we believe we can completely replace all of Steam's services, getting closer and closer to a true decentralized gaming ecosystem. The metaverse might still have a chance if we can pull together and iterate on the tools available.
 
 ## Team
 Two life long meme enjoyers trying to make their way around the metaverse. Probably nothing, but who else can offer a one in a million shot at taking out the Zuck empire? Gaming skills is top of tops. We love multiplayer games. We have also been hacking on the core multiplayer systems on this for almost 5 years now and have unlocked forbidden secrets of the art, if you know you know... and thanks for the help to get here.
