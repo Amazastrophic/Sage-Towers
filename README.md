@@ -8,6 +8,8 @@ Our grand goal is to open up as much of our core work as we can to help create t
 Please join our [Discord](https://discord.gg/sagetowers) to start your journey into some of the most prestigious Realms of the metaverse.
 
 # How we are different
+NOT HERE FOR MONEY, WE WANT TO SAVE THE METAVERSE!
+
 We are focused on **realtime multiplayer interactions** and NFT usability in the metaverse first and foremost. We believe this to be key to building a metaverse capable of meaningful, interesting social experiences tailored by players themselves.
 
 Many memes died to bring us this information, but they report [Meta's move to assimulate a company utilizing the same underlying network abilities](https://techcrunch.com/2021/06/11/facebook-buys-game-studio-bigbox-vr/) that we are capable of. So we have drafted a plan of against The Zuckerverse Forces. ([Bigbox's POP:One is built on Mirror](https://mirror-networking.com/showcase/) and we use a fork of it called [Mirage](https://github.com/MirageNet/Mirage))
