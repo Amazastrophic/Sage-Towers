@@ -42,13 +42,43 @@ NFT Collection | Usability | Compatibility  | Comment
 [ArtWars](https://opensea.io/collection/art-warsnft) | Inherited | Pending | Waiting for more info
 
 
+## Upper Body Wearables
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
+## Lower Body Wearables
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
+## Head Wearables
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
+## Face Wearables
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
+
+## Feet Wearables
+
+NFT Collection | Usability | Compatibility  | Comment
+------------ | ------------- | ------------ | ------------ 
+Pending | Pending | Pending | Pending
 ## Clothing and Accessories for Models
 
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
 Pending | Pending | Pending | Pending
 
-## Pets 
+
+## Vanity Pets 
 
 NFT Collection | Usability | Compatibility  | Comment
 ------------ | ------------- | ------------ | ------------ 
