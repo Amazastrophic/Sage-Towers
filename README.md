@@ -1,4 +1,4 @@
-# [Sage Towers](https://discord.gg/SMjWy7FMgz)- The luxury metaverse for all
+# [Sage Towers](https://discord.gg/SMjWy7FMgz)- Luxury metaverse for all
 
 ### **The choice is yours anon, will you sieze the memes of production and defeat The MetaZuck with us?**
 
