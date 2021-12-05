@@ -1,7 +1,7 @@
 
 ## Whilelist for Access
 
-The founding realm "Utopia" can be accessed with the following NFT's
+The founding realm "Utopia" can be accessed if you own anything from these collections
 
 - [CryptoPunks](https://opensea.io/collection/cryptopunks)
 - [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) 
