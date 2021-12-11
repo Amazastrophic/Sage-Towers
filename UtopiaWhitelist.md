@@ -1,16 +1,13 @@
 
-## Whilelist for Access
+## Whilelist for Utopia Access
 
 The founding realm "Utopia" can be accessed if you own anything from these collections
+In no particular order:
 
-- [CryptoPunks](https://opensea.io/collection/cryptopunks)
-- [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) 
-- [Lazy Lions](https://opensea.io/collection/lazy-lions) 
-- [CyberKongz](https://opensea.io/collection/cyberkongz)
-- [CrypToadz by GREMPLIN](https://opensea.io/collection/cryptoadz-by-gremplin) 
-- [Cool Cats NFT](https://opensea.io/collection/cool-cats-nft)
-- [Doodles](https://opensea.io/collection/doodles-official ) 
 - [CryptoPochi](https://opensea.io/collection/cryptopochi)
+- [Che-Yu Wu x Nobody](https://opensea.io/collection/cheyuwuxnobody)
+- [CrypToadz by GREMPLIN](https://opensea.io/collection/cryptoadz-by-gremplin) 
+- [Nouns](https://opensea.io/collection/nouns)
 - [Pegz](https://opensea.io/collection/pegz)
 - [XCOPY](https://opensea.io/collection/xcopy)
 - [Alpha Centauri Kid](https://opensea.io/collection/alpha-centauri-kid)
@@ -22,6 +19,12 @@ The founding realm "Utopia" can be accessed if you own anything from these colle
 - [Ringers by Dmitri Cherniak](https://opensea.io/collection/ringers-by-dmitri-cherniak)
 - [Damien Hirst - The Currency](https://opensea.io/collection/thecurrency)
 - [Chromie Squiggle by Snowfro](https://opensea.io/collection/chromie-squiggle-by-snowfro)
+- [Punks Comic](https://opensea.io/collection/punks-comic)
+- [Hamwarez](https://opensea.io/collection/hamwarez)
+- [Low effort Punks](https://opensea.io/collection/low-effort-punks)
 - [Sage Tokens](https://opensea.io/collection/metaverse-player-titles) 
-- [Pretend Pepe Cards](https://opensea.io/collection/pretend-pepe) 
+- [Probably Pepe](https://opensea.io/collection/probably-pepe) 
 - [Forge of the Meme Metaverse](https://opensea.io/collection/forge-of-the-meme-metaverse)
+
+
+Full hamily login support soon.
