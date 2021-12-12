@@ -19,7 +19,6 @@ In no particular order:
 - [Ringers by Dmitri Cherniak](https://opensea.io/collection/ringers-by-dmitri-cherniak)
 - [Damien Hirst - The Currency](https://opensea.io/collection/thecurrency)
 - [Chromie Squiggle by Snowfro](https://opensea.io/collection/chromie-squiggle-by-snowfro)
-- [Punks Comic](https://opensea.io/collection/punks-comic)
 - [Hamwarez](https://opensea.io/collection/hamwarez)
 - [Low effort Punks](https://opensea.io/collection/low-effort-punks)
 - [Sage Tokens](https://opensea.io/collection/metaverse-player-titles) 
