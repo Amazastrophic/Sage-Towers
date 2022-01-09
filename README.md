@@ -17,11 +17,10 @@ Many memes died to bring us this information, but they report [Meta's move to as
 Each Realm (Server) in Sage Towers will become its own ecosystem with its own variants on gameplay and blockchain integrations. We did not want the core metaverse to be weighed down with high barriers to entry like VR/AR. The goal is for **communities** to fill out the Realm's rule set as they see fit. Initially, we will work hand in hand with communities, but our end goal is to allow anyone to build Realms in Unity and host them online or even LAN.
 
 ### Currently we do not require what some might expect in the core Metaverse:
-These features would be per realm when implemented
+
 - **No crypto required**  
 - **No VR required**  
 - **No AR required**
-- **No Blockchain Gaming/NFT minting**
 
 # Current requirements we do have
 
